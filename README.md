@@ -1,1 +1,2 @@
 # Mindteck
+.net training
